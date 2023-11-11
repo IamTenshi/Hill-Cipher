@@ -32,7 +32,7 @@ You can install NumPy using the following command:
 
 bash
 Copy code
-`$ pip install numpy
+`$ pip install numpy`
 Key Considerations
 The MatrixNotInvertible exception is raised when attempting to use a non-invertible matrix as a key.
 

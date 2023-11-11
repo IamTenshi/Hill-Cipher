@@ -21,7 +21,7 @@ $ python main.py
 
 This will execute the script, demonstrating the encryption and decryption process with different keys and plaintexts.
 
-Files
+## Files
 hill.py: Contains the Hill Cipher implementation.
 main.py: Demonstration script utilizing the Hill Cipher implementation.
 LICENSE: The license information for this project.

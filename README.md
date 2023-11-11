@@ -29,12 +29,14 @@ You can install NumPy using the following command:
 ```bash
 $ pip install numpy
 ```
-Key Considerations
+
+## Key Considerations
 The MatrixNotInvertible exception is raised when attempting to use a non-invertible matrix as a key.
 
 Ensure that your keys are square matrices to use the Hill Cipher algorithm.
 
-License
+
+## License
 This project is licensed under the MIT License.
 
 Feel free to customize this README to include more details about your project, dependencies, and any specific instructions for users.

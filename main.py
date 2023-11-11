@@ -27,7 +27,7 @@ def main():
                 print(f"Square Matrix: {key.shape[0]}x{key.shape[1]}")
                 print("The matrix is invertible.")
             else:
-                raise MatrixNotInvertible("The matrix is not invertible.")
+                raise MatrixNotInvertible("The determinant = 0.")
 
             print("\nEncryption:")
             print("Plaintext:", plaintexts[i])

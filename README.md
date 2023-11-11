@@ -26,13 +26,13 @@ hill.py: Contains the Hill Cipher implementation.
 main.py: Demonstration script utilizing the Hill Cipher implementation.
 LICENSE: The license information for this project.
 
-##Dependencies
+## Dependencies
 NumPy: This project relies on NumPy for numerical operations and linear algebra.
 You can install NumPy using the following command:
 
-bash
-Copy code
-`$ pip install numpy`
+```bash
+$ pip install numpy
+```
 Key Considerations
 The MatrixNotInvertible exception is raised when attempting to use a non-invertible matrix as a key.
 
